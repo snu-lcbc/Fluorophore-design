@@ -1,5 +1,3 @@
-SMILES,ExcitationEnergy,OscillatorStrength,score,Valid,CanonicalSMILES
-C[BrH]NC(=O)c1ccc(C2(C(F)(F)F)CS2(=O)=O)cc1,5.801,0.241,1.398041,False,
-CC[P+]BCCC1=ON=CN=CC1,6.326,0.178,1.1260279999999998,False,
-O=C1OOCN(=O)CN1c1ccccn1,7.069,0.134,0.947246,False,
-CCCN1(C(=O)C2CCCCC2)C(C)CCN1C,5.523,0.146,0.8063579999999999,False,
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a35d7900135c26756fe4aa3d8ab24ebe974617232a894cf1280a7c3b728ba09
+size 323
