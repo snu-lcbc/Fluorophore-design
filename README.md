@@ -13,6 +13,6 @@ This project aims to:
 
 ## Repository Structure# Fluorophore-design
 ![Complexity metric](results/complexity_metrics_boxplot_1to1000z.png)
-![Complexity metric](results/invalid_valence_with_reasons.png)
-![Complexity metric](results/kde_subfigs_legends_insideGH#1.png)
-![Complexity metric](results/synthetic_accessibility_boxplot_tunedz.png)
+![Invalid valence](results/invalid_valence_with_reasons.png)
+![KDE subfig](results/kde_subfigs_legends_insideGH#1.png)
+![Synthetic Accessibility](results/synthetic_accessibility_boxplot_tunedz.png)
