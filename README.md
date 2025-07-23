@@ -14,4 +14,4 @@ This project aims to:
 ---
 
 ## Repository Structure# Fluorophore-design
-![Complexity metric](/Users/kimbomin/Git/Fluorophore-design/complexity_metrics_boxplot_1to1000z.png)
+![Complexity metric](results/complexity_metrics_boxplot_1to1000z.png)
