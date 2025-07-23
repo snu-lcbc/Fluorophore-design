@@ -4,7 +4,7 @@ Design and analysis pipeline for small-molecule fluorophores using cheminformati
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project aims to:
 - Curate and preprocess public quantum chemistry data (e.g., PubChemQC)
@@ -13,4 +13,4 @@ This project aims to:
 
 ---
 
-## 📁 Repository Structure# Fluorophore-design
+## Repository Structure# Fluorophore-design
